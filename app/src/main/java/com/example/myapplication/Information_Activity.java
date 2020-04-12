@@ -52,10 +52,10 @@ public class Information_Activity extends AppCompatActivity {
         {
             imageView.setImageResource(R.drawable.ic_corn);
         }
-        if(i==4)
+        /*if(i==4)
         {
             imageView.setImageResource(R.drawable.ic_rice);
-        }
+        }*/
         if(i==3)
         {
             imageView.setImageResource(R.drawable.ic_sugar_cane);
