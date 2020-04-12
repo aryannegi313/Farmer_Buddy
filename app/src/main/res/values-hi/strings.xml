@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Username">उपयोगकर्ता नाम</string>
+    <string name="password">पासवर्ड</string>
+    <string name="signin">" साइन इन करें"</string>
+    <string name="signUp">क्या एक खाता नहीं है? साइन अप करें</string>
+    <string name="search">" ढूढें"</string>
+    <string name="signup">साइन अप करें</string>
+    <string name="Email">ईमेल</string>
+    <string name="Phone">" फ़ोन नंबर"</string>
+    <string name="signIN">क्या एक खाता है? साइन इन करें</string>
+    <string name="Crop">फ़सल विवरण</string>
+    <string name="crop_det">फसल विवरण प्राप्त करें</string>
+    <string name="weather">मौसम</string>
+    <string name="weather_det">मौसम विवरण प्राप्त करें</string>
+    <string name="locat_ass">स्थान सहायता</string>
+    <string name="location_det">स्थान के लिए अच्छी फसलें</string>
+    <string name="phone_Call">"किसान कॉल सेंटर पर कॉल "</string>
+    <string name="call_help">कॉल</string>
+    <string name="empty_view_title_text">कोई कार्यक्रम निर्धारित नहीं</string>
+    <string name="empty_view_subtitle_text">एक कार्यक्रम जोड़ें</string>
+    <string name="Event">कार्यक्रम</string>
+    <string name="image">फ़ोटो परीक्षण</string>
+    <string name="image_sub">परीक्षण करने लिए भेजें</string>
+</resources>

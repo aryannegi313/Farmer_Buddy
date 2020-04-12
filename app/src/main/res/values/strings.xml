@@ -1,0 +1,26 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" translatable="false">Farmer Buddy</string>
+    <string name="Username">Username</string>
+    <string name="password">Password</string>
+    <string name="signin">SIGN IN</string>
+    <string name="signup">SIGN UP</string>
+    <string name="signUp">DON\'T HAVE AN ACCOUNT? SIGN UP</string>
+    <string name="search">Search</string>
+    <string name="Email">Email</string>
+    <string name="Phone">Phone number</string>
+    <string name="signIN">Have an account?Sign In</string>
+    <string name="Crop">Crops Info</string>
+    <string name="crop_det">Get crop details</string>
+    <string name="weather">weather</string>
+    <string name="weather_det">Get weather details</string>
+    <string name="locat_ass">Location</string>
+    <string name="location_det">Get location assist</string>
+    <string name="phone_Call">Call Kisan Call Centre</string>
+    <string name="call_help">Call</string>
+    <string name="empty_view_title_text">No events yet</string>
+    <string name="empty_view_subtitle_text">Add an Event</string>
+    <string name="google_maps_api" translatable="false">AIzaSyDxt36lNO85jJUMFbLp3s2XHS65ktyBuq8</string>
+    <string name="Event">Event</string>
+    <string name="image">Image Test</string>
+    <string name="image_sub">Send image to test</string>
+</resources>
